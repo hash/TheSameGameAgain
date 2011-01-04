@@ -1,0 +1,17 @@
+html, body, span, h1, p, a, canvas, header {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+header {
+	display: block;
+}
+
+a:focus {
+	outline: 1px dotted;
+}
